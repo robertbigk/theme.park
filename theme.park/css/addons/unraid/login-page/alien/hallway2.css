@@ -1,14 +1,13 @@
-/* Custom hallway2.css - Blue theme with transparency */
-@import url(/theme.park/css/addons/unraid/login-page/alien/alien-base.css);
-
 body {
-  background: url("/theme.park/css/addons/unraid/login-page/alien/background.png") no-repeat center center fixed;
+  background: url("background.png") no-repeat center center fixed;
   background-size: cover;
-  background-color: rgba(0, 0, 40, 0.4); /* fallback */
+  background-color: black;
 }
 
-#login {
-  background-color: rgba(0, 0, 60, 0.4) !important;
-  border: 2px solid rgba(0, 150, 255, 0.6) !important;
-  box-shadow: 0 0 15px rgba(0, 150, 255, 0.6);
+.login-box {
+  background-color: rgba(0, 0, 0, 0.4) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(4px);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
 }
