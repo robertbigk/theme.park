@@ -2,11 +2,10 @@
 
 :root {
     --main-bg: radial-gradient(ellipse at center, rgba(0, 255, 119, 0.1) 0, rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/wallpaper/Alters.png
-) center center/cover no-repeat fixed;
-    
+    url(https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/wallpaper/Alters.png) center center/cover no-repeat fixed;
+
     --logo: url(https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/logo/wings.png) center no-repeat;
-    
+
     --text-color: #37f592;
     --input-color: #37f592;
     --link-color: #37f592;
