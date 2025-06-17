@@ -25,15 +25,15 @@
 }
 
 #login {
-  margin-left: 800px !important;
+  margin-left: 1200px !important;
 }  /* <-- brakujący nawias domknięty tutaj */
 
 #login .logo {
     background: var(--logo);
-    background-size: 100px auto !important;
-    padding: 3rem !important;
-    height: 300px !important;
-    width: 400px !important;
+    background-size: 400px auto !important;
+    padding: 2rem !important;
+    height: 180px !important;
+    width: 300px !important;
     margin: 1rem auto !important;
 }
 
