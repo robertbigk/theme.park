@@ -39,7 +39,7 @@
 
 #login .login-box {
   backdrop-filter: blur(3px);
-  max-width: 260px !important;
+  max-width: 220px !important;
   padding: 1rem !important;
   margin: 0 auto !important;
   box-shadow: none !important;
