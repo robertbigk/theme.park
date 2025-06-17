@@ -26,7 +26,7 @@
 
 #login {
   margin-left: 1200px !important;
-}  /* <-- brakujący nawias domknięty tutaj */
+}
 
 #login .logo {
     background: var(--logo);
@@ -39,4 +39,8 @@
 
 #login .login-box {
   backdrop-filter: blur(3px);
+  max-width: 260px !important;
+  padding: 1rem !important;
+  margin: 0 auto !important;
+  box-shadow: none !important;
 }
