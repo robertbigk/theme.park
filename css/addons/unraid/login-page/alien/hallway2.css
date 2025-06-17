@@ -26,10 +26,15 @@
 
 #login {
   margin-left: 600px !important;
-}
+}  /* <-- brakujący nawias domknięty tutaj */
 
 #login .logo {
-  background-size: 150px auto !important;
+    background: var(--logo);
+    background-size: 300px auto !important;
+    padding: 3rem !important;
+    height: 200px !important;
+    width: 300px !important;
+    margin: 1rem auto !important;
 }
 
 #login .login-box {
