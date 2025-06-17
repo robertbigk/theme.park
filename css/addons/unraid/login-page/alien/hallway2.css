@@ -1,10 +1,10 @@
 @import url("https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/alien-base.css");
 
 :root {
-    --main-bg: radial-gradient(ellipse at center, rgba(0, 255, 119, 0.1) 0, rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/wallpaper/Alters.png) center center/cover no-repeat fixed;
+    --main-bg: radial-gradient(ellipse at center, rgba(0, 255, 119, 0.1) 0, rgba(0,255,119,0) 100%) center center/cover no-repeat fixed,
+    url("https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/wallpaper/Alters.png") center center/cover no-repeat fixed;
 
-    --logo: url(https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/logo/wings.png) center no-repeat;
+    --logo: url("https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/logo/wings.png") center no-repeat;
 
     --text-color: #37f592;
     --input-color: #37f592;
@@ -18,7 +18,7 @@
     --button-color-hover: #68ffff;
     --button-color2-hover: #68ffff;
     --input-font: 'Share Tech Mono', monospace;
-    --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
+    --text-font: 'Share Tech Mono', monospace;
     --div-background-color-15: rgba(0, 255, 111, 0.03);
     --text-shadow: 0 0 8px;
     --box-shadow: 0 0 15px;
