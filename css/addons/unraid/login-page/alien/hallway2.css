@@ -30,7 +30,7 @@
 
 #login .logo {
     background: var(--logo);
-    background-size: 400px auto !important;
+    background-size: 350px auto !important;
     padding: 2rem !important;
     height: 180px !important;
     width: 300px !important;
