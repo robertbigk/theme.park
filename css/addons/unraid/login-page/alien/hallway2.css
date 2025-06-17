@@ -6,20 +6,32 @@
 
     --logo: url("https://robertbigk.github.io/theme.park/css/addons/unraid/login-page/alien/logo/wings.png") center no-repeat;
 
-    --text-color: #37f592;
-    --input-color: #37f592;
-    --link-color: #37f592;
-    --link-color-hover: #68ffff;
-    --case-color: #37f592;
-    --button-text-color: #37f592;
+    --text-color: #9be0ff;
+    --input-color: #9be0ff;
+    --link-color: #9be0ff;
+    --link-color-hover: #ff89d6;
+    --case-color: #9be0ff;
+    --button-text-color: #9be0ff;
     --button-text-color-hover: #000;
-    --button-color: #37f592;
-    --button-color2: #0C833D;
-    --button-color-hover: #68ffff;
-    --button-color2-hover: #68ffff;
+    --button-color: #9be0ff;
+    --button-color2: #ff89d6;
+    --button-color-hover: #ff89d6;
+    --button-color2-hover: #ff89d6;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
-    --div-background-color-15: rgba(0, 255, 111, 0.03);
+    --div-background-color-15: rgba(255, 200, 255, 0.06);
     --text-shadow: 0 0 8px;
     --box-shadow: 0 0 15px;
+}
+
+#login {
+  margin-left: 600px !important;
+}
+
+#login .logo {
+  background-size: 150px auto !important;
+}
+
+#login .login-box {
+  backdrop-filter: blur(4px);
 }
